@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit-raj-11
 - 👀 I’m interested in hackathons 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on hackathons
 - 📫 How to reach me message me on my insta id - ankitraj1c
 
