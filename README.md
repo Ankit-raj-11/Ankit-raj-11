@@ -66,17 +66,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ankit74850raj&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
----
-
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankit74850raj/Ankit74850raj/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> 📝 To enable this animation, create a GitHub Action using [Platane/snk](https://github.com/Platane/snk). It automatically updates your snake in `/output/github-contribution-grid-snake.svg`.
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit74850raj" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
