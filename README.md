@@ -4,32 +4,39 @@
 </p>
 
 <h1 align="center">Hey there 👋, I'm Ankit Raj</h1>
-<h3 align="center">A Passionate Developer | MERN Stack Enthusiast | AI Learner 🤖</h3>
+<h3 align="center">⚡ Passionate Developer | MERN Stack | AI & Data Enthusiast 🤖</h3>
 
 ---
 
 ### 🚀 About Me
-- 💻 I love building **React + Node.js** projects  
-- 🌱 Currently exploring **AI, Three.js, and FinTech**  
-- ⚡ Fun fact: I like making **futuristic UIs** & **AI assistants (like JARVIS)**  
-- 📫 Reach me at **ankit74850raj@gmail.com**
+- 💻 I love creating modern web apps with **React + Node.js**  
+- 🌱 Currently exploring **AI, Data Science, and FinTech**  
+- 🧠 Building my personal AI assistant project "**Charvesh**"  
+- ⚡ Fun fact: I enjoy futuristic UIs, creative animations, and deep tech!  
+- 📫 Reach me: **ankit74850raj@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
+
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,tailwind" />
-  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,tailwind" /><br/>
+  
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-  <br/>
-  <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma" />
-  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br/>
+  
+  <!-- Python + Data -->
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br/>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma" /><br/>
+  
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
 ---
@@ -47,29 +54,38 @@
 
 ---
 
-## 🧠 My GitHub Contributions
+## 🧠 GitHub Contributions
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit74850raj&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ankit74850raj&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ankit74850raj/Ankit74850raj/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> 📝 To enable this animation, create a GitHub Action using [Platane/snk](https://github.com/Platane/snk). It automatically updates your snake in `/output/github-contribution-grid-snake.svg`.
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankit-111-raj" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/ankit74850raj" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:ankit74850raj@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Ankit-raj-11" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/Ankit74850raj" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Keep+Learning...;Keep+Building...;Keep+Growing+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Keep+Learning...;Keep+Building...;Keep+Growing...+🚀" alt="Typing SVG" />
 </p>
