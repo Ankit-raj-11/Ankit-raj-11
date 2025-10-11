@@ -63,9 +63,9 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankit74850raj" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/ankit-111-raj" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:ankit74850raj@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Ankit74850raj" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/Ankit-raj-11" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
