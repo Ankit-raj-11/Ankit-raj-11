@@ -38,9 +38,8 @@
 ## 🏅 Badges
 
 <a href="https://holopin.io/@ankitraj11" target="_blank" rel="noopener noreferrer">
-  <img src="https://holopin.me/ankitraj11" alt="Holopin board — ankitraj11" height="120" />
+  <img src="https://holopin.me/ankitraj11" alt="Holopin board — ankitraj11" width="100%" />
 </a>
-
 
 ---
 
