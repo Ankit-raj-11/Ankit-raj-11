@@ -35,10 +35,10 @@
 
 ---
 
-## 🏅 Hacktoberfest Badges
+## 🏅 Badges
 
 <p align="center">
-(https://holopin.me/ankitraj11)
+[An image of @ankitraj11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitraj11)](https://holopin.io/@ankitraj11)
 </p>
 
 ---
