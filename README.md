@@ -38,7 +38,7 @@
 ## 🏅 Hacktoberfest Badges
 
 <p align="center">
-https://holopin.me/ankitraj11
+(https://holopin.me/ankitraj11)
 </p>
 
 ---
