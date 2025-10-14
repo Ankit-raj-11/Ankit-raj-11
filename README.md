@@ -38,7 +38,7 @@
 ## 🏅 Hacktoberfest Badges
 
 <p align="center">
-[![An image of @ankitraj11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitraj11)](https://holopin.io/@ankitraj11)
+https://holopin.me/ankitraj11
 </p>
 
 ---
