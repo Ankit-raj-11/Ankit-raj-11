@@ -49,17 +49,19 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ankit-raj-11&show_icons=true&theme=dark&title_color=ff2c2c&icon_color=ff2c2c&text_color=ffffff&bg_color=000000&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-raj-11&theme=dark&ring=ff2c2c&fire=ff2c2c&background=000000&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Ankit-raj-11&show_icons=true&theme=dark&title_color=ff2c2c&icon_color=ff2c2c&text_color=ffffff&bg_color=000000&hide_border=true&show=prs_merged,reviews" />
+  
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Ankit-raj-11&theme=dark&fire=ff2c2c&ring=ff2c2c&sideLabels=ffffff&date_format=M%20j%5B%2C%20Y%5D&background=000000&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=Ankit-raj-11&theme=onedark&no-frame=true&column=5&title=Stars,Followers,Commit,Repositories,PullRequest" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ankit-raj-11&layout=compact&theme=dark&title_color=ff2c2c&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=8" />
+  
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Ankit-raj-11&theme=onedark&no-frame=true&column=3&margin-w=15&title=Stars,Followers,Commit,Repositories,PullRequest" />
 </p>
-
 ---
 
 <div align="center">
